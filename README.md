@@ -1,16 +1,32 @@
 ### Hi there 👋
 
 <!--
-**gurkansaman/gurkansaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+Brief information about me:
 
-Here are some ideas to get you started:
+🌱 Data Science and Machine Learning Bootcamp Participant at Veri Bilimi Okulu ~ VBO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Data Analyst Dublin Business School
+
+💻 Motivated to learn, grow, and excel in Data Analytics and Data Science.
+
+🎓 Msc. in MBA , Sabancı University
+
+🎓 BSc. in Management Engineering, Istanbul Technical University.
+
+📫 How to reach me:
+
+Linkedln:
+
+https://www.linkedin.com/in/g%C3%BCrkan-%C5%9Faman-54aaa546/
+
+Kaggle:
+
+https://www.kaggle.com/gurkansaman
+
+Mail:
+
+gurkansaman@gmail.com
+
+
 -->
