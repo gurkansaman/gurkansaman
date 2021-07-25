@@ -4,9 +4,7 @@ Brief information about me:
 
 🌱 Data Science and Machine Learning Bootcamp Participant at Veri Bilimi Okulu ~ VBO
 
-💻 I’m interested in Data Science, Machine Learning, Deep Learning, Data Engineering, Growth Analyst, Marketing Analytics.
-
-💻 Solution-driven professional with experience in team leading and designing/implementing technical solutions for data science and artificial intelligence projects.
+💻 I’m interested in Data Science, Machine Learning, Deep Learning, Data Engineering, Growth Analyst, CRM, Marketing Analytics.
 
 🎓 Msc. in MBA , Sabancı University
 
@@ -22,5 +20,7 @@ Mail:
 
 gurkansaman@gmail.com
 
+Web:
 
--->
+www.gurkansaman.com
+
