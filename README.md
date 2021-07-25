@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-Hi there 👋
 Brief information about me:
 
 🌱 Data Science and Machine Learning Bootcamp Participant at Veri Bilimi Okulu ~ VBO
